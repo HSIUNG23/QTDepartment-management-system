@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>timg.jfif</file>
+        <file>附二.jfif</file>
+        <file>医生护士.jfif</file>
+        <file>医生护士.jpg</file>
+        <file>u=1805041148,2057716665&amp;fm=26&amp;gp=0.jpg</file>
+        <file>13jg59.jpg</file>
+        <file>113338nzjuyx9sdsmycc0y.jpg</file>
+    </qresource>
+</RCC>
